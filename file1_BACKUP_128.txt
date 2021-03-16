@@ -1,0 +1,7 @@
+line1
+<<<<<<< HEAD
+line5
+=======
+line8
+>>>>>>> 628fac663051c25faf00a241d2b1f18710f8214b
+line3

@@ -1,8 +1,3 @@
 line1
-<<<<<<< HEAD
-line288
-=======
-line7
->>>>>>> 0230c7e83c8e7582c467fa56fa05418cfe8a3389
-
+line2
 line3
